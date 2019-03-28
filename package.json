@@ -1,0 +1,28 @@
+{
+  "name": "disposable-js",
+  "version": "1.0.0",
+  "description": "A list of disposable ESPs with set of methods for better functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unierr/disposable.git"
+  },
+  "keywords": [
+    "disposable",
+    "email",
+    "esp",
+    "wildcard",
+    "whitelist",
+    "blacklist",
+    "free"
+  ],
+  "author": "Amirali Ahmadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unierr/disposable/issues"
+  },
+  "homepage": "https://github.com/unierr/disposable#readme"
+}
